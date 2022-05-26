@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: 'Dancing Script', cursive; */
+    /* font-family: 'Montserrat', sans-serif; */
+}
+/* navbar section */
+.navbar{
+    background: ghostwhite;
+}
+.navbar-nav li a{
+    color: gray;
+    font-size: 18px;
+    margin: 0px 20px;
+}
+
+/* about section */
+
+#about{
+    padding: 5% 0;
+}
+h2{
+    
+}
+.heading{
+    margin: 20px auto 10px auto;
+    border-bottom: 1px solid gray;
+    width: 300px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+}
+#about .row{
+    text-align: left;
+    padding: 5% 0;
+}
+#about #about-btn{
+    padding: 7px 15px;
+    background-color: gainsboro;
+    border: none;
+}
+
+/* services section */
+#services{
+    padding: 5% 0;
+    background: gainsboro;
+}
+#services .row{
+    padding: 5% 0;
+
+}
+
+/* our team section */
+#team{
+    padding: 5% 0;
+
+}
+#team .row{
+    padding: 6% 0;
+}
+#team img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 8px double gray;
+}
